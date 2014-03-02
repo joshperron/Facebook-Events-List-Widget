@@ -15,3 +15,5 @@ Oh yes so you need 3 things to make this function:
 3) And an Authtoken
 
 This is now Open Source and I am not providing any support whatsoever. Feel free to modify and redistribute as you wish!
+
+I'm not able to easily help with future improvements to this code as I haven't used it in a few years.
